@@ -40,4 +40,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shishir-dwi&show_icons=true&locale=en&layout=compact" alt="shishir-dwi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shishir-dwi&show_icons=true&locale=en" alt="shishir-dwi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shishir-dwi&show_icons=true&locale=en" alt="shishir-dwi" width="400"/></p>
