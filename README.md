@@ -1,8 +1,8 @@
 
 <div id="header" align="center">
-        <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="300"/>
-    </div>
-    <div id="badges1" align="center">
+        <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width="100%" height="300"/>
+</div>
+<div id="badges1" align="center">
         <a href="https://www.linkedin.com/in/shishir-dwi">
           <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
@@ -10,25 +10,29 @@
           <img src="https://img.shields.io/badge/-HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge"/>
         </a>
 </div
- 
-<h2 align="center">Hi 👋, I'm Shishir Dwivedi</h2>
+
+ ---
+
+
+<h2 align="center"> Hi 👋, I'm Shishir Dwivedi</h2>
 <h3 align="center">A passionate 3rd year student learning Frontend Development , Data Analysis and Machine Learning Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
-- 🌱 I’m currently learning *Flask*
+- 🌱 I’m currently learning  *Flask*
 
-- 👯 I’m looking to collaborate on *any Machine Learning Projects*
+- 👯 I’m looking to collaborate on  *any Machine Learning Projects*
 
-- 💬 Ask me about *Python, Data Science , Machine Learning or FrontEnd*
+- 💬 Ask me about  *Python, Data Science , Machine Learning or FrontEnd*
 
-- :mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail)](https://linkedin.com/in/shishir-dwi)
+- :mailbox: How to reach me: <a href="mailto:shishir-dwivedi@outlook.com">Mail Me</a>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jE2UPDkyIj-sejLVBdJy4d3v8QXJDKf3/view?usp=sharing](https://drive.google.com/file/d/1jE2UPDkyIj-sejLVBdJy4d3v8QXJDKf3/view?usp=sharing)
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1jE2UPDkyIj-sejLVBdJy4d3v8QXJDKf3/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shishir-dwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shishir-dwi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shishirdwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shishirdwi" height="30" width="40" /></a>
+<a href="https://instagram.com/shiiishiiirrrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiiishiiirrrrr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
