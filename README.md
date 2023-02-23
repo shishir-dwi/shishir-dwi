@@ -11,10 +11,7 @@
         </a>
 </div
  
-<div align="center">
-  <h2>Hey there...</h2>
-  <img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</div>
+<h2 align="center">Hi 👋, I'm Shishir Dwivedi</h2>
 <h3 align="center">A passionate 3rd year student learning Frontend Development , Data Analysis and Machine Learning Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
@@ -26,7 +23,7 @@
 
 - :mailbox: How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail)](https://linkedin.com/in/shishir-dwi)
 
-- 📄 Know about my experiences (https://drive.google.com/file/d/1jE2UPDkyIj-sejLVBdJy4d3v8QXJDKf3/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1jE2UPDkyIj-sejLVBdJy4d3v8QXJDKf3/view?usp=sharing](https://drive.google.com/file/d/1jE2UPDkyIj-sejLVBdJy4d3v8QXJDKf3/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
