@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
         <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width="100%" height="300"/>
 </div>
@@ -18,7 +17,7 @@
 <h3 align="center">A passionate B.Tech 3rd year student learning Frontend Development , Data Analysis and Machine Learning Engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
-- 🌱 I’m currently learning  *RASA* and *WebScrapping*
+- 🌱 I’m currently learning *RASA* and *WebScrapping*
 
 - 👯 I’m looking to collaborate on  *any Machine Learning Projects*
 
@@ -30,9 +29,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shishir-dwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shishir-dwi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shishirdwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shishirdwi" height="30" width="40" /></a>
-<a href="https://instagram.com/shiiishiiirrrrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiiishiiirrrrr" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/shishir-dwi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
+<a href="https://instagram.com/shiiishiiirrrrr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
 </p>
 
 ---
