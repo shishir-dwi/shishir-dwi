@@ -25,7 +25,7 @@
 
 - :mailbox: How to reach me: <a href="mailto:shishir-dwivedi@outlook.com">Mail Me</a>
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1h92T38a2LnQK4qMy7XrmbSmYltvpJz6T/view?usp=sharing)
+- 📄 Know about my experiences: [Resume]([https://drive.google.com/file/d/1h92T38a2LnQK4qMy7XrmbSmYltvpJz6T/view?usp=sharing](https://drive.google.com/file/d/19nwQ3-kmvytpLgxFuGVuFJdDFJDY0sG2/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
