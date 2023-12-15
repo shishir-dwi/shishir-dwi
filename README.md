@@ -23,7 +23,7 @@
 
 - 💬 Ask me about  *Python, Data Science , Machine Learning or FrontEnd*
 
-- :mailbox: How to reach me: <a href="mailto:shishir-dwivedi@outlook.com">Mail Me</a>
+- 📫 How to reach me: <a href="mailto:shishir-dwivedi@outlook.com">Mail Me</a>
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/19nwQ3-kmvytpLgxFuGVuFJdDFJDY0sG2/view?usp=sharing)
 
