@@ -17,11 +17,9 @@
 <h3 align="center">A passionate B.Tech 4th year student with proficiency in Machine Learning, Deep Learning, NLP, and Large Language Models(LLMs).</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
-- 🌱 I’m currently learning *Tableau*.
+- 🌱 I’m currently working on *GenAI, LLMs, Vision, etc.*.
 
-- 👯 I’m looking to collaborate on  some *LLM based projects*
-
-- 💬 Ask me about  *Python, Data Science , Machine Learning or Foundation Models*
+- 💬 Ask me about  *Python, Data Science , Machine Learning or Generative AI*
 
 - 📫 How to reach me: <a href="mailto:shishir-dwivedi@outlook.com">Mail Me</a>
 
