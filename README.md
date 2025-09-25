@@ -14,7 +14,7 @@
 
 
 <h2 align="center"> Hi 👋, I'm Shishir Dwivedi</h2>
-<h3 align="center">A passionate B.Tech 4th year student with proficiency in Machine Learning, Deep Learning, NLP, and Large Language Models(LLMs).</h3>
+<h3 align="center">A passionate AI Engineer with proficiency in Machine Learning, Deep Learning, NLP, and Generative AI.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 - 🌱 I’m currently working on *GenAI, LLMs, Vision, etc.*.
