@@ -21,14 +21,14 @@
 
 - 💬 Ask me about  *Python, Data Science , Machine Learning or Generative AI*
 
-- 📫 How to reach me: <a href="mailto:shishir-dwivedi@outlook.com">Mail Me</a>
+- 📫 How to reach me: <a href="mailto:shishir.spiral@gmail.com">Mail Me</a>
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/10Lm5be8eX8PYYXGiqELOExwIpru3mIS2/view?usp=drive_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/19nwQ3-kmvytpLgxFuGVuFJdDFJDY0sG2/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/shishir-dwi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahuldkjain" height="30" width="40" /></a>
-<a href="https://instagram.com/shiiishiiirrrrr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahul_dk_jain" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/shishir-dwi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shishir-dwi" height="30" width="40" /></a>
+<a href="https://instagram.com/shishir.dwi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shishir-dwi" height="30" width="40" /></a>
 </p>
 
 ---
